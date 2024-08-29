@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n"
+
+    std::cout << "An inspirational line of text ..."\n;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
